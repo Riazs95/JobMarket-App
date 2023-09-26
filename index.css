@@ -1,0 +1,46 @@
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 2000px;
+  height: 1500px;
+  object-fit: cover;
+}
+.iphone-14-pro-max-21-parent,
+.iphone-14-pro-max-23-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 131px;
+}
+.iphone-14-pro-max-23-parent {
+  justify-content: flex-start;
+}
+.company-description-icon,
+.home-icon {
+  position: relative;
+  width: 430px;
+  height: 932px;
+  object-fit: cover;
+}
+.company-description-icon {
+  height: 1189px;
+}
+.frame-parent {
+  position: absolute;
+  top: 1562px;
+  left: calc(50% - 496px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 181px;
+}
+.job {
+  position: relative;
+  background-color: #0a0d2c;
+  width: 100%;
+  height: 9718px;
+  overflow: hidden;
+}
